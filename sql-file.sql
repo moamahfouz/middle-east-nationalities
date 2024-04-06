@@ -4,7 +4,6 @@ INSERT INTO middle_east_nationalities (nationality, translation) VALUES
 ('egyptian', 'مصري'),
 ('iranian', 'إيراني'),
 ('iraqi', 'عراقي'),
-('israeli', 'إسرائيلي'),
 ('jordanian', 'أردني'),
 ('kuwaiti', 'كويتي'),
 ('lebanese', 'لبناني'),
